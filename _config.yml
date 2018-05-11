@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Prasanna Venkataraman
+twitter_username: prasannacse2005
+name: Prasanna Venkataraman
 
 # Build settings
 markdown: kramdown
@@ -10,30 +10,30 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: http://worldofprasanna.github.io
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/worldofprasanna
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
+   url: http://stackoverflow.com/users/2260685/worldofprasanna
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://in.linkedin.com/in/venkataraman-prasanna-61a73515
 
 #Any buzzword skills you want to include
 skills:
- - Groovy
- - Spring MVC
- - Spring Boot
- - Gradle
  - Java
+ - Spring Framework
+ - Gradle
+ - Ruby on Rails
+ - Agile
  - JPA
  - SQL
  - REST
  - Tech Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+blogfeed:
 
 #Work experience is required
 roles:
@@ -55,10 +55,10 @@ roles:
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: Bachelor of Engineering
+   date: 2009
+   subject: Computer Science
+   school: Thiagarajar College of Engineering
 
 #This section is optional (as is the image link below)
 coursera:
@@ -75,23 +75,8 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/learning-neural-networks
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+ - worldofprasanna/DailyTracker
+ - worldofprasanna/pulligal
 
 #Mobile apps section is optional
 apps:
